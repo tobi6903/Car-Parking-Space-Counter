@@ -31,6 +31,4 @@ The Car Parking Space Counter App is an innovative solution designed to monitor 
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/car-parking-space-counter.git
-cd car-parking-space-counter
+
